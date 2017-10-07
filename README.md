@@ -6,3 +6,5 @@
 
 ## Laravel Like A Pro - TaskManager Files [Download](https://github.com/codingphasedotcom/courses-files/blob/master/todo-app-html.zip)
 
+
+## jQuery - Pokedex Files [Download](https://github.com/codingphasedotcom/courses-files/blob/master/jquery-Pokedex.zip)
