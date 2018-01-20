@@ -15,3 +15,7 @@
 ## PHP7 AND LARAVEL - DESIGN STORM HTML FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/Laravel-HTMLFILES.zip)
 
 ## PARCEL COURSE - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/parcel-intro.zip)
+
+
+## How to make Money Independently? - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/crypto-profits.zip)
+
