@@ -13,6 +13,8 @@
 
 
 ## PHP7 AND LARAVEL - DESIGN STORM HTML FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/Laravel-HTMLFILES.zip)
+## PHP7 AND LARAVEL - DESIGN STORM COMPLETE PROJECT FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/designstorm.zip)
+
 
 ## PARCEL COURSE - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/parcel-intro.zip)
 
