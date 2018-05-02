@@ -25,3 +25,5 @@
 ## React Craigslist Clone - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/craigslist.zip)
 
 ## Website for Tekashi69 - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/69files.zip)
+
+## Website for Tekashi69 - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/tekashi69-completefiles.zip)
