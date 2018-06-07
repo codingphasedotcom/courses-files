@@ -27,3 +27,5 @@
 ## Website for Tekashi69 - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/69files.zip)
 
 ## Website for Tekashi69 - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/tekashi69-completefiles.zip)
+
+## HTML Email Course - Starting FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-starting-files.zip)
