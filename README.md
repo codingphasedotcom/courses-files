@@ -31,3 +31,6 @@
 ## HTML Email Course - Starting FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-starting-files.zip)
 
 ## HTML Email Course - Completed FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-final-files.zip)
+
+## Web Developer Personal Brand and Portfolio - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/web-developer-personal-brand-and-portfolio.zip)
+
