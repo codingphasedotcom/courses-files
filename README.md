@@ -16,23 +16,25 @@
 ## PHP7 AND LARAVEL - DESIGN STORM COMPLETE PROJECT FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/designstorm.zip)
 
 
-## PARCEL COURSE - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/parcel-intro.zip)
+## PARCEL COURSE - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/parcel-intro.zip)
 
 
-## How to make Money Independently? - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/crypto-profits.zip)
+## How to make Money Independently? - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/crypto-profits.zip)
 
 
 ## React Craigslist Clone - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/craigslist.zip)
 
 ## Website for Tekashi69 - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/69files.zip)
 
-## Website for Tekashi69 - COMPLETE FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/tekashi69-completefiles.zip)
+## Website for Tekashi69 - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/tekashi69-completefiles.zip)
 
 ## HTML Email Course - Starting FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-starting-files.zip)
 
-## HTML Email Course - Completed FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-final-files.zip)
+## HTML Email Course - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-final-files.zip)
 
 ## Web Developer Personal Brand and Portfolio - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/web-developer-personal-brand-and-portfolio.zip)
+
+## Web Developer Personal Brand and Portfolio - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/branding-portfolio-finished.zip)
 
 
 ## Wordpress Theme - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/wordpress-theme-start.zip)
