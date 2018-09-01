@@ -37,4 +37,6 @@
 ## Web Developer Personal Brand and Portfolio - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/branding-portfolio-finished.zip)
 
 
-## Wordpress Theme - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/wordpress-theme-start.zip)
+## Build any site into a Wordpress Theme - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/wordpress-theme-start.zip)
+
+## Build any site into a Wordpress Theme - FINISHED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/myportfolio.zip)
