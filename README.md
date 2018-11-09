@@ -43,3 +43,6 @@ https://github.com/codingphasedotcom/courses-files/blob/master/html-css-social-m
 ## Build any site into a Wordpress Theme - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/wordpress-theme-start.zip)
 
 ## Build any site into a Wordpress Theme - FINISHED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/myportfolio.zip)
+
+## MYSQL Sneaker IMS - COMPLETED FILES [Download](https://github.com/codingphasedotcom/mysql-ims-complete-files)
+
