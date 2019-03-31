@@ -35,6 +35,9 @@ https://github.com/codingphasedotcom/courses-files/blob/master/html-css-social-m
 
 ## HTML Email Course - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/email-course-final-files.zip)
 
+## HTML Email with Frameworks Course - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/frame-email.zip)
+
+
 ## Web Developer Personal Brand and Portfolio - STARTING FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/web-developer-personal-brand-and-portfolio.zip)
 
 ## Web Developer Personal Brand and Portfolio - COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/branding-portfolio-finished.zip)
