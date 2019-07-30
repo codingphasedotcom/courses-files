@@ -4,8 +4,7 @@ https://github.com/codingphasedotcom/courses-files/blob/master/html-css-social-m
 
 ## HTML & CSS - SOCIAL MEDIA SITE COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/html-css-social-media-site-complete.zip)
 
-## HTML & CSS - HEADPHONES SITE COMPLETED FILES [Download](
-https://github.com/codingphasedotcom/courses-files/blob/master/headphones-page.zip)
+## HTML & CSS - HEADPHONES SITE COMPLETED FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/headphones-page.zip)
 
 
 ## React - Real Estate App Complete Files [Download](https://github.com/codingphasedotcom/courses-files/blob/master/react-real-estate.zip)
