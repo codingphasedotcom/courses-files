@@ -54,3 +54,6 @@ https://github.com/codingphasedotcom/courses-files/blob/master/html-css-social-m
 
 ## Ecommerce with Node - COMPLETED FILES [Download](https://github.com/codingphasedotcom/Ecommerce-Course-Files)
 
+## Shopify Theme Development 2.0 - Statice FILES [Download](https://github.com/codingphasedotcom/courses-files/blob/master/shopify-static.zip)
+
+
